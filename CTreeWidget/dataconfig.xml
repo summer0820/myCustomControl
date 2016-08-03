@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemlist>
+<item>
+    <parentID>-1</parentID>
+    <ID>1</ID>
+    <text>系统状态</text>
+    <key>XTZT</key>
+    <toolicon>Resources/toolicon/MJJT.png</toolicon>
+    <fontname>微软雅黑</fontname>
+    <fontcolor>#000000</fontcolor>
+    <fontbold>1</fontbold>
+    <fullpath>首页;系统状态</fullpath>
+</item>
+<item>
+    <parentID>1</parentID>
+    <ID>11</ID>
+    <text>系统进程</text>
+    <key>XTJC</key>
+    <toolicon></toolicon>
+    <fontname>微软雅黑</fontname>
+    <fontcolor>#000000</fontcolor>
+    <fontbold>0</fontbold>
+    <fullpath>首页;系统状态;系统进程</fullpath>
+</item>
+<item>
+    <parentID>1</parentID>
+    <ID>12</ID>
+    <text>系统资源</text>
+    <key>XTZY</key>
+    <toolicon></toolicon>
+    <fontname>微软雅黑</fontname>
+    <fontcolor>#000000</fontcolor>
+    <fontbold>0</fontbold>
+    <fullpath>首页;系统状态;系统资源</fullpath>
+</item>
+<item>
+    <parentID>1</parentID>
+    <ID>13</ID>
+    <text>网络端口</text>
+    <key>WLDK</key>
+    <toolicon></toolicon>
+    <fontname>微软雅黑</fontname>
+    <fontcolor>#000000</fontcolor>
+    <fontbold>0</fontbold>
+    <fullpath>首页;系统状态;网络端口</fullpath>
+</item>
+
+</itemlist>

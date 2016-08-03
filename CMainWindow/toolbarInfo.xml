@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbar height="" backgroundpix="/root/Working/CMainWindow/icon/background.png">
+   <logo iconname="/root/Working/CMainWindow/icon/ID_LOGO_TOOLBAR.png" width="" height=""/>
+   <sysuser flag="sysuser" btnwidth="79" btnheight="79">
+     <button id="state" name="状态查看" iconname="/root/Working/CMainWindow/icon/ID_STATES_TOOLBAR" objectname="toolbarbutton"/>
+         <button id="soft" name="软件管理" iconname="/root/Working/CMainWindow/icon/ID_STATES_TOOLBAR" objectname="toolbarbutton"/>
+         <button id="license" name="授权管理" iconname="/root/Working/CMainWindow/icon/ID_STATES_TOOLBAR" objectname="toolbarbutton"/>
+  </sysuser>
+  <secuser flag="secuser" btnwidth="79" btnheight="79">
+     <button id="trustedpolicy" name="可信策略" iconname="" objectname="toolbarbutton"/>
+	 <button id="safepolicy" name="安全策略" iconname="" objectname="toolbarbutton"/>
+  </secuser>
+  <auduser flag="auduser" btnwidth="79" btnheight="79">
+     <button id="auditinfo" name="审计信息" iconname="" objectname="toolbarbutton"/>
+	 <button id="auditpolicy" name="审计策略" iconname="" objectname="toolbarbutton"/>
+  </auduser>
+</toolbar>
